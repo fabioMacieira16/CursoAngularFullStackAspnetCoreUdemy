@@ -1,1 +1,3 @@
 # CursoAngularFullStackAspnetCoreUdemy
+
+#parada na aula -
