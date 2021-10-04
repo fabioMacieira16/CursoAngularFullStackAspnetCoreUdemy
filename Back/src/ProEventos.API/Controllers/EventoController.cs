@@ -11,7 +11,7 @@ namespace ProEventos.API.Controllers
     [Route("api/[controller]")]
     public class EventoController : ControllerBase
     {
-        public EventoController()
+        public EventoController(DataContext context)
         {
            
         }

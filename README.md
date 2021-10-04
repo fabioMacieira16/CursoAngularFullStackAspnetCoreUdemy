@@ -1,9 +1,13 @@
 # CursoAngularFullStackAspnetCoreUdemy
 
-#parada na aula -
+# Referencias utilizada no projeto
+    Swashbuckle.AspNetCore - 5.6.3
+    Microsoft.EntityFrameworkCore - 2.0.2
+    Microsoft.EntityFrameworkCore.Design - 2.0.2
+    Microsoft.EntityFrameworkCore.Tools - 2.0.2
+    Microsoft.EntityFrameworkCore.Sqlite - 2.0.2
 
-
-#Assuntos abordados
+# Assuntos abordados
     169 - O que vai ser feito no Projeto
     170 - Diretorios
     171 - Global Json parte 01
@@ -66,6 +70,12 @@
     179 - Json - JavaScript object Notation
     180 - Evento Model
     181 - Projeto enviado para o git
+    182 - O que faremos -EF Core Intro
+    183 - Instalando EF Core
+    184 - Rerencencias EF Core
+    185 - Criando o contexto
+    186 - Migrations e Database
     
+
 
          
