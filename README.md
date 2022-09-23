@@ -19,6 +19,9 @@
     177 - Postman
     178 - HTTP + Verbos
 
+# Extrensoes do vscode
+  -
+
    * REQUEST 
     Verbos -  O que são verbos? são ações execultada no servidor
      Exemplos:  
