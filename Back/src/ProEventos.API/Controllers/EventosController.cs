@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
+using ProEventos.API.Data;
+using ProEventos.API.Models;
 
 namespace ProEventos.API.Controllers
 {
@@ -27,7 +27,7 @@ namespace ProEventos.API.Controllers
         [HttpGet("{id}")]
         public IEnumerable<Evento> GetbyId(int id)
         {
-           return _context.Evento.Where(evento => evento.EnventoId == id);
+           return _context.Eventos.Where(evento => evento.EnventoId == id);
         }
     }
 }
