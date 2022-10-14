@@ -4,7 +4,6 @@ using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using ProEventos.API.Data;
 using ProEventos.API.Models;
-
 namespace ProEventos.API.Controllers
 {
     [ApiController]
